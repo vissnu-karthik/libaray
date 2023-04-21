@@ -27,9 +27,8 @@ export default function PermanentDrawerLeft() {
         <Toolbar>
 
           <Typography variant="h6" noWrap component="div">
-            Permanent drawer
+            Books
           </Typography>
-          <TextField id="standard-basic" label="Standard" variant="standard" />
         </Toolbar>
       </AppBar>
       <Drawer
